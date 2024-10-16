@@ -1,0 +1,9 @@
+./Graphs/.vscode/*
+./Graphs/.editorconfig
+./Graphs/a.out
+
+./cses/Graphs/a.out
+./cses/Graphs/input.txt
+
+./IntroductionProblems/a.out
+./IntroductionProblems/in.txt
