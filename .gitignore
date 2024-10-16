@@ -1,9 +1,10 @@
-./Graphs/.vscode/*
-./Graphs/.editorconfig
-./Graphs/a.out
+Graphs/.vscode/*
+Graphs/.editorconfig
+Graphs/a.out
 
-./cses/Graphs/a.out
-./cses/Graphs/input.txt
 
-./IntroductionProblems/a.out
-./IntroductionProblems/in.txt
+cses/Graphs/a.out
+cses/Graphs/input.txt
+
+IntroductionProblems/a.out
+IntroductionProblems/in.txt
