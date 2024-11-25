@@ -1,3 +1,5 @@
+// Link: https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
