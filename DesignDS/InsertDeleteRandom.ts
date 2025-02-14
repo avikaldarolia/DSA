@@ -27,6 +27,10 @@ class RandomizedSet {
 		const lastIndex = this.vec.length - 1;
 		const idxToRemove = this.hash.get(val);
 
+		if (!idxToRemove) {
+			return false;
+		}
+
 		const lastValue = this.vec[lastIndex];
 
 		this.vec[idxToRemove] = lastValue;
